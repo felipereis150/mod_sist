@@ -1,4 +1,5 @@
 import csv
+import pandas as pd
 
 fieldnames = ['Esporte', 'Freq. Abs.', 'Freq. Rel.', '%']
 
